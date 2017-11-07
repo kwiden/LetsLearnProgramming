@@ -1,5 +1,5 @@
 ## Let's Get Some Gears!
-[previous tutorial -> Let's Climb!](LLClimb.md)
+[<- Previously: Let's Climb!](LLClimb.md)
 
 *Objectives* : Read Button Input, Drive Motors, Read limit switches
 
@@ -36,6 +36,6 @@
 
 5. Reflect - think about reasons why we would monitor the limit switch in our software vs why we would use the Talon’s auto-limiting feature. Are there any advantages or disadvantages to either approach? 
 
-[next tutorial -> Let's Learn PID!](LLpid.md)
+[Next: Let's Learn PID! ->](LLpid.md)
 
 [Back to Main](../README.md)

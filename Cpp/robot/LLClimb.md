@@ -1,5 +1,5 @@
 ## Let's Climb
-[previous tutorial -> Let's Learn Tank Drive!](LLTank.md)
+[<- Previously: Let's Learn Tank Drive!](LLTank.md)
 
 *Objectives* : Read Button Input, Drive Motors, read current and limit to stop climber
 
@@ -25,6 +25,6 @@ It will return 1 if the button is pressed and 0 if not pressed. Remember to use 
 
 ![Image](/Images/01dpapprec.jpg)
 
-[next tutorial -> Let's Get Some Gears!](LLGears.md)
+[Next: Let's Get Some Gears! ->](LLGears.md)
 
 [Back to Main](../README.md)
