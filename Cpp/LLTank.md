@@ -20,7 +20,7 @@ The half section is at the very top and is where all the lines with “#include�
 
 	The first object we will use is the Joystick object. We have to tell the computer we are using this object by writing in the **header section**:
 
-	```	#include “Joystick.h”```
+	```	#include “Joystick.h” ```
 
 	Next we need to declare our joystick. This is where we tell our code that we are going to be using a controller(called a Joystick) and what we want to call it, but we don’t tell it anything else. Below the **declaration**, add the line:
 
@@ -31,7 +31,7 @@ The half section is at the very top and is where all the lines with “#include�
 	
 	Lastly, we need to initialize our joystick. Go to **robot_init**, and add the line:
 
-	```	j1 = new Joystick(0);```
+	```	j1 = new Joystick(0); ```
 	
 	Remember to make sure the name at the beginning matches the name you gave it in the declaration. We use the keyword “new” to tell the computer we want to make a new object. If you want to know why we put a 0 in the parenthesis, ask Katie as she can show you why (it’s not well explained via text).
 
@@ -39,11 +39,11 @@ The half section is at the very top and is where all the lines with “#include�
 	
 	Next we need to declare a CANTalon below the **declaration,** I called mine motor1:
 	
-	```CANTalon* motor1;```
+	``` CANTalon* motor1; ```
 	
 	Whenever we declare an object, we will need to use the ‘*’. Lastly, we need to initialize our CANTalon in robot_init:
 
-	```	motor1 = new CANTalon(8);```
+	```	motor1 = new CANTalon(8); ```
 	
 	So why did we use 8? The CAN bus works like passing notes in class. At the beginning of the note, there is a name. You pass the note to the person sitting next to you and if their name is on the note, they read it, otherwise they pass is to the next person… until it gets to the right person. Instead of giving the talons names, we assign them ID numbers and the process works the exact same. 8 is the ID of the motor that controls the gear intake. If we wanted to control a different motor, we would find its ID and put that number in the parenthesis. 
 
