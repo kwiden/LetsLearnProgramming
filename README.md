@@ -17,4 +17,6 @@ This is your one stop shop to learn about programming FRC robotics in C++.
 * [Chief Delphi](https://www.chiefdelphi.com/forums/portal.php)
 * [Cross The Road Electronics](http://www.ctr-electronics.com/)
     * [CTRE TalonSRX](http://www.ctr-electronics.com/talon-srx.html)
+    * [CTRE Mag Encoder](http://www.ctr-electronics.com/srx-magnetic-encoder.html)
+    * [Pigeon IMU](http://www.ctr-electronics.com/gadgeteer-imu-module-pigeon.html)
 * [Get Started with 2017 Control System](https://wpilib.screenstepslive.com/s/4485)
