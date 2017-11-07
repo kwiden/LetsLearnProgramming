@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Let's Learn Programming
 
 You can use the [editor on GitHub](https://github.com/kwiden/LetsLearnProgramming/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
