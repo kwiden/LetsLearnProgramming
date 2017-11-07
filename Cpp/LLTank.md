@@ -37,7 +37,7 @@ Lastly, we need to initialize our joystick. Go to **robot_init**, and add the li
 	
 Remember to make sure the name at the beginning matches the name you gave it in the declaration. We use the keyword “new” to tell the computer we want to make a new object. If you want to know why we put a 0 in the parenthesis, ask Katie as she can show you why (it’s not well explained via text).
 
-The second object we will be using the speed controller, which controls the motor. 1296 uses Talons that we talk to via a CAN Bus (briefly explained in a moment). To let our code know we will be using it, we need to include “CANTalon.h” in the **header section**.
+The second object we will be using is the speed controller, which controls the motor. 1296 uses Talons that we talk to via a CAN Bus (briefly explained in a moment). To let our code know we will be using it, we need to include “CANTalon.h” in the **header section**.
 	
 Next we need to declare a CANTalon below the **declaration,** I called mine motor1:
 	
@@ -50,14 +50,9 @@ Whenever we declare an object, we will need to use the ‘*’. Lastly, we need 
 So why did we use 8? The CAN bus works like passing notes in class. At the beginning of the note, there is a name. You pass the note to the person sitting next to you and if their name is on the note, they read it, otherwise they pass is to the next person… until it gets to the right person. Instead of giving the talons names, we assign them ID numbers and the process works the exact same. 8 is the ID of the motor that controls the gear intake. If we wanted to control a different motor, we would find its ID and put that number in the parenthesis. 
 
 	
-Let’s make a motor move! There are two things we need to do to make the motor move:
+Let’s make a motor move! Navigate in the code to **teleop_periodic**. There are two things we need to do to make the motor move:
 
-1) Get the input from the joystick. The joystick returns a decimal value between -1 and 1 where 1 is pushed fully forward and -1 is pulled all the way back.
-
-2) Send that input to the motor. The motor intakes a value between -1 (full speed back) and 1 (full speed forward). 0 is no speed.
-
-
-Lets navigate in the code to **teleop_periodic**:
+1. Get the input from the joystick. The joystick returns a decimal value between -1 and 1 where 1 is pushed fully forward and -1 is pulled all the way back.
 
 To get input from the joystick, we’ll need this command, which will return a number between -1 and 1:
 
@@ -66,12 +61,13 @@ To get input from the joystick, we’ll need this command, which will return a n
 I recommend making a variable (which variable type holds numbers with decimal points?) to set equal to what it returns. What should you put instead of “axis_ID”? This is the number ID of the joystick axis you want to read. Ask Katie and she will show you where to find it.
 
 
+1. Give that input to the motor. The motor intakes a value between -1 (full speed back) and 1 (full speed forward). 0 is no speed. 
+
 To set the speed of the motor, we’ll need this command:
 
-```	motor1.Set(motor_percent)```
+```	motor1->Set(motor_percent)```
 
-This command doesn’t return anything. The value in the parenthesis, “motor_percent”, is what speed (percentage) you want to set the motor to. This should be the value you got from the controller. 
-
+This command doesn’t return anything. The value in the parenthesis, “motor_percent”, is what speed (percentage) you want to set the motor to. This should be the value _returned_ from controller->GetRawAxis() command. 
 
 
 Once you think you have it right, right click on your project name and click “Build Project” - alternatively you can hit ctrl-b. At the bottom on the screen is the “console”. If everything went right, it should “build succeeded.” There will be some lines about missing gcc or g++ or something like that, don’t worry about those. There may be other errors written in red - that means something in your code is wrong. Ask for help to fix these. 
