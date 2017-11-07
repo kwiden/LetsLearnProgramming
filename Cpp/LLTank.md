@@ -106,7 +106,7 @@ It seemed to cruel to give you no help, so here’s the rough outline:
 	Before we used one axis on the joystick and now we need to use two. You only need one Joystick object, you just need to read multiple axis.
 	Use the left axis to drive the left motors and the right axis to drive the right motor.
 	Test your code - does it work the way you expected?
-	Fix anything that behaves wrong
+	Fix anything that behaves wrong.
 	Tada! ```
 
 
