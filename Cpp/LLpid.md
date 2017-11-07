@@ -3,6 +3,6 @@
 
 
 
-[next tutorial -> in progress...](../README.md)
+[next tutorial -> TBA](../README.md)
 
 [Back to Main](../README.md)
