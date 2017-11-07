@@ -6,7 +6,9 @@
 
 **Process** - 
 Before we write the drivetrain code, lets get familiar with the robot template and the objects we will be using:
-_Template_:
+
+_Robot Template_:
+
 There are three and a half sections we will be using:
 First, we have the **declaration** of the robot object. Below this is where we declare our variables. We can only declare variable in this space to tell the computer that we want to use them. We can’t write any instructions here.
 
@@ -47,8 +49,6 @@ Whenever we declare an object, we will need to use the ‘*’. Lastly, we need 
 	
 So why did we use 8? The CAN bus works like passing notes in class. At the beginning of the note, there is a name. You pass the note to the person sitting next to you and if their name is on the note, they read it, otherwise they pass is to the next person… until it gets to the right person. Instead of giving the talons names, we assign them ID numbers and the process works the exact same. 8 is the ID of the motor that controls the gear intake. If we wanted to control a different motor, we would find its ID and put that number in the parenthesis. 
 
-
-	
 	
 Let’s make a motor move! There are two things we need to do to make the motor move:
 
