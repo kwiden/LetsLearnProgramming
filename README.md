@@ -10,15 +10,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  - [Let's Get Some Gears!](Cpp/LLGears.md)
  - [Let's Learn PID!](Cpp/LLpid.md)
  
-
-```markdown
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
