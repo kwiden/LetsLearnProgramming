@@ -43,9 +43,9 @@ Next we need to declare a CANTalon below the **declaration,** I called mine moto
 	
 ``` CANTalon* motor1; ```
 	
-Whenever we declare an object, we will need to use the ‘*’. Lastly, we need to initialize our CANTalon in robot_init:
+Whenever we declare an object, we will need to use the ‘\*’. Lastly, we need to initialize our CANTalon in robot_init:
 
-```	motor1 = new CANTalon(8); ```
+```motor1 = new CANTalon(8); ```
 	
 >>So why did we use 8? The CAN bus works like passing notes in class. At the beginning of the note, there is a name. You pass the note to the person sitting next to you and if their name is on the note, they read it, otherwise they pass it to the next person… until it gets to the right person. Instead of giving the talons names, we assign them ID numbers and the process works the exact same. 8 is the ID of the motor that controls the gear intake. If we wanted to control a different motor, we would find its ID and put that number in the parenthesis. 
 
@@ -65,7 +65,7 @@ I recommend making a variable (which variable type holds numbers with decimal po
 
 To set the speed of the motor, we’ll need this command:
 
-```	motor1->Set(motor_percent)```
+```	motor1->Set(motor_percent) ```
 
 This command doesn’t return anything. The value in the parenthesis, “motor_percent”, is what speed (percentage) you want to set the motor to. This should be the value _returned_ from controller->GetRawAxis() command. 
 
