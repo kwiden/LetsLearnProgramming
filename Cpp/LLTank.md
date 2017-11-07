@@ -89,7 +89,7 @@ After initializing it, still in robot init, we’ll need to set its mode so that
 
 “kFollower” is the mode type, and we put “CANSpeedController::” in front of it to tell the computer where kFollower is defined. It’s a similar idea to how we import libraries.
 
-Still in robot init, we need to tell the climber which motor its following. We’ll use the Set() function for that. -Wait, but that’s we used to set the speed!- Yup, because we were in a different control mode for that motor. In follow mode, you use Set() to say which motor to follow and not how fast to go. So, instead of giving Set() the value of the Joystick, instead you’re going to give it the CANTalon ID of the motor to follow:
+Still in robot init, we need to tell the climber which motor its following. We’ll use the Set() function for that. *Wait, but that’s we used to set the speed!* Yup, because we were in a different control mode for that motor. In follow mode, you use Set() to say which motor to follow and not how fast to go. So, instead of giving Set() the value of the Joystick, instead you’re going to give it the CANTalon ID of the motor to follow:
 
 ```	my_motor->Set(8); //we used 8 because that’s the ID of the gear intake```
 
