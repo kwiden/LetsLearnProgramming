@@ -17,36 +17,61 @@ Thirdly, we have **teleop_periodic**. This code will be called over and over aga
 The half section is at the very top and is where all the lines with “#include” are - we’ll call this the **header section** because we are #including files ending in “.h” which indicated that they are header files. This is where we tell the computer we will be using various libraries.  I’ll be referring to where to put code by the location names (bolded), make sure you know where they are before continuing.
 
 **Objects**:
+
 	The first object we will use is the Joystick object. We have to tell the computer we are using this object by writing in the **header section**:
-```	#include “Joystick.h”```
+
+	```	#include “Joystick.h”```
+
 	Next we need to declare our joystick. This is where we tell our code that we are going to be using a controller(called a Joystick) and what we want to call it, but we don’t tell it anything else. Below the **declaration**, add the line:
-```	Joystick* j1;```
+
+	```	Joystick* j1;```
+	
 	I named my Joystick object “j1” but you call yours whatever you’d like (within the limits of variable names). We put the * after the object type for computer-memory management reasons that we don’t care about right now.
+	
+	
 	Lastly, we need to initialize our joystick. Go to **robot_init**, and add the line:
-```	j1 = new Joystick(0);```
+
+	```	j1 = new Joystick(0);```
+	
 	Remember to make sure the name at the beginning matches the name you gave it in the declaration. We use the keyword “new” to tell the computer we want to make a new object. If you want to know why we put a 0 in the parenthesis, ask Katie as she can show you why (it’s not well explained via text).
 
 	The second object we will be using the speed controller, which controls the motor. 1296 uses Talons that we talk to via a CAN Bus (briefly explained in a moment). To let our code know we will be using it, we need to include “CANTalon.h” in the **header section**.
+	
 	Next we need to declare a CANTalon below the **declaration,** I called mine motor1:
+	
 	```CANTalon* motor1;```
+	
 	Whenever we declare an object, we will need to use the ‘*’. Lastly, we need to initialize our CANTalon in robot_init:
-```	motor1 = new CANTalon(8);```
+
+	```	motor1 = new CANTalon(8);```
 	
 	So why did we use 8? The CAN bus works like passing notes in class. At the beginning of the note, there is a name. You pass the note to the person sitting next to you and if their name is on the note, they read it, otherwise they pass is to the next person… until it gets to the right person. Instead of giving the talons names, we assign them ID numbers and the process works the exact same. 8 is the ID of the motor that controls the gear intake. If we wanted to control a different motor, we would find its ID and put that number in the parenthesis. 
 
 
+	
+	
 Let’s make a motor move! There are two things we need to do to make the motor move:
+
 1) Get the input from the joystick. The joystick returns a decimal value between -1 and 1 where 1 is pushed fully forward and -1 is pulled all the way back.
+
 2) Send that input to the motor. The motor intakes a value between -1 (full speed back) and 1 (full speed forward). 0 is no speed.
 
-Lets navigate in the code to 88teleop_periodic88:
+
+Lets navigate in the code to **teleop_periodic**:
+
 To get input from the joystick, we’ll need this command, which will return a number between -1 and 1:
+
 ```	j1->GetRawAxis(axis_ID) ```
+
 I recommend making a variable (which variable type holds numbers with decimal points?) to set equal to what it returns. What should you put instead of “axis_ID”? This is the number ID of the joystick axis you want to read. Ask Katie and she will show you where to find it.
 
+
 To set the speed of the motor, we’ll need this command:
+
 ```	motor1.Set(motor_percent)```
+
 This command doesn’t return anything. The value in the parenthesis, “motor_percent”, is what speed (percentage) you want to set the motor to. This should be the value you got from the controller. 
+
 
 
 Once you think you have it right, right click on your project name and click “Build Project” - alternatively you can hit ctrl-b. At the bottom on the screen is the “console”. If everything went right, it should “build succeeded.” There will be some lines about missing gcc or g++ or something like that, don’t worry about those. There may be other errors written in red - that means something in your code is wrong. Ask for help to fix these. 
