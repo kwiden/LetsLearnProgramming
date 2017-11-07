@@ -102,11 +102,11 @@ By now, you’re a pro at controlling motors. So, using the ideas from before le
 
 It seemed to cruel to give you no help, so here’s the rough outline:
  
-[] Declare and initialize 4 CANTalon objects for the 4 motors. The left motors are ID 1 and 2, and the right are 3 and 4. 
-[] Set up two motors to follow the other motors. Be careful not to mix up sides, we don’t want to destroy the motors or the gearboxes. 
-[] Use the left axis to drive the left motors and the right axis to drive the right motor. You only need one Joystick object, you just need to read multiple axis.
-[] Test your code - does it work the way you expected?
-[] Fix anything that behaves wrong.
+ - [ ] Declare and initialize 4 CANTalon objects for the 4 motors. The left motors are ID 1 and 2, and the right are 3 and 4. 
+ - [ ] Set up two motors to follow the other motors. Be careful not to mix up sides, we don’t want to destroy the motors or the gearboxes. 
+ - [ ] Use the left axis to drive the left motors and the right axis to drive the right motor. You only need one Joystick object, you just need to read multiple axis.
+ - [ ] Test your code - does it work the way you expected?
+ - [ ] Fix anything that behaves wrong.
 
 Tada! You did it!
 
