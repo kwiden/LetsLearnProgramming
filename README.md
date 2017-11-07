@@ -9,7 +9,7 @@ This is your one stop shop to learn about programming FRC robotics in C++.
  - [Let's Learn PID!](Cpp/robot/LLpid.md)
  
  
- ### Other Things
+### Other Things
   - [About](whodis.md)
   - [FRC 1296](http://www.rockwallrobotics.com)
 
