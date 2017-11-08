@@ -25,4 +25,11 @@
 3. Now that we wrote our first code, lets see if it works! On the bottom right, there is a green button labeled “run,” press it!
 
     If everything went well, the box beneath the code will display the text you wrote. If it didn’t go well, you’ll see some error messages under the label “compilation info.” Double check that you included a semicolon “;” at the end of your statement, that you spelled and capitalized printf correctly, that you are using double quotes inside the parenthesis, and that you have both parenthesis. If you found any errors, click the “edit” text in the top right left hand corner and fix them. The green run button might say “ideone it!” now, but it’s the same thing. Click the button and see if your fixes worked! Ask for help if you can’t figure out the errors. 
+    
+    Tada! You did it! Feel free to change what your code prints out to play with it.
+
+[Next: Let's Learn Variables! ->](Math.md)
+
+[Back to Main](../../README.md)
+
 
