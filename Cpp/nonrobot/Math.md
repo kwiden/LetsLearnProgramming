@@ -1,4 +1,4 @@
-## Lets Learn Variables!
+## Let's Learn Variables!
 
 [<- Previously: Let's Say Hello!](HelloWorld.md)
 
