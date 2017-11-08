@@ -2,6 +2,6 @@
 
 [<- Previously:  Let's Learn Functions!](Functions.md)
 
-[Next: -> Lets Loop de Loop!](Loops.md)
+[Next: -> Let's Loop de Loop!](Loops.md)
 
 [Back to Main](../../README.md)
