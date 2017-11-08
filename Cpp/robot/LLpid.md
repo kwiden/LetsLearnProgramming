@@ -20,7 +20,7 @@
 4. Learn how to read encoder values. Use your resourced from CTRE to find what methods you will need to use.
   
     Methods you will use:
-  ```
+  ```cpp
    motor->SetTalonControlMode(CANTalon::kPositionMode); // We will need to set the motor to position mode
    motor->GetPulseWidthPosition(); //This will give you the absolute position in ticks. There are 4096 ticks in a rotation
    motor->Set(); //We will set the position of the motor using the set command. This expects an absolute position in rotations (not ticks).
