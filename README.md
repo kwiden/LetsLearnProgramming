@@ -3,10 +3,13 @@
 This is your one stop shop to learn about programming FRC robotics in C++. 
 
 ### C++
- - [Let's Learn Tank Drive!](Cpp/robot/LLTank.md)
- - [Let's Climb!](Cpp/robot/LLClimb.md)
- - [Let's Get Some Gears!](Cpp/robot/LLGears.md)
- - [Let's Learn PID!](Cpp/robot/LLpid.md)
+ - Basics
+
+ - Robots
+     - [Let's Learn Tank Drive!](Cpp/robot/LLTank.md)
+     - [Let's Climb!](Cpp/robot/LLClimb.md)
+     - [Let's Get Some Gears!](Cpp/robot/LLGears.md)
+     - [Let's Learn PID!](Cpp/robot/LLpid.md)
  
  
 ### Other Things
