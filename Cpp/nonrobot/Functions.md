@@ -1,4 +1,4 @@
-## Lets Learn Functions!
+## Let's Learn Functions!
 
 [<- Previously: Let's Learn Variables!](Math.md)
 
