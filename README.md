@@ -4,6 +4,12 @@ This is your one stop shop to learn about programming FRC robotics in C++.
 
 ### C++
  - Basics
+    -[Let’s Say Hello!](Cpp/nonrobot/HelloWorld.md)
+    -[Let's Learn Variables!](Cpp/nonrobot/Math.md)
+    -[Let's Learn Functions!](Cpp/nonrobot/Functions.md)
+    -[Let's Learn unConditionally!](Cpp/nonrobot/Conditionals.md)
+    -[Let's Loop de Loop!](Cpp/nonrobot/Loops.md)
+    -[Let's Make Objects!](Cpp/nonrobot/Objects.md)
 
  - Robots
      - [Let's Learn Tank Drive!](Cpp/robot/LLTank.md)
