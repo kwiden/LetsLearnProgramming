@@ -20,21 +20,26 @@ There are multiple ways we could start - maybe we convert the seconds to minutes
 
 For the sake of this tutorial, lets use the method that converts from seconds to minutes to hours.
 
-So, first we devide the seconds by 60 to get minutes. So for 3661, we would 61 minutes and have one second left over.
+So, first we'll convert seconds to miutes by deviding the seconds by 60. For 3661 seconds, we would 61 minutes and have one second left over.
 
 Next, we'll need to devide minutes by 60, so that we can get hours. 61 minutes is 1 hour with 1 minute left over.
 
 At this point, we know the answer: 3661 seconds = 1 hour, 1 minute, and 1 second.
 
 Lets write the steps in math-ish:
-
+```
 Starting Seconds = 3661
+
 Minutes = Starting Seconds / 60 (ignoring the remainer);
+
 Seconds = The remainder of (Starting Seconds / 60);
+
 Hours = Minutes / 60 (ignoring the remainer);
+
 Minutes = The remainder of (Minutes / 60);
 
 ____ [starting seconds] is ____ [Hours] hours, ____ [Minutes] minutes, and ____ [Seconds] seconds.
+```
 
 If you're a little confused, ask for help!
 
@@ -42,20 +47,20 @@ So now that we broke down how to solve that problem generically, now lets try to
 
 In this code, we see the header section like last time, as well as the main and the main body. However, in this code we see something new:
 
-''' cpp
+``` cpp
 int seconds;
 int hour; 
 int min; 
 int sec;
 
 seconds = 3661;
-'''
+```
 
-Here, we are declaring **variables**. What are variables? I'm glad you asked. **Variables** are places in your code where you can store *values* (aka numbers).  Different types of variables can store different types of things. If we want to store whole, counting numbers ( ...-2, -1, 0, 1, 2...) we will make an '''int''' or **Integer**. If we want to hold a number that is not a whole number (3.14, .99, -16.25), we would use a '''double'''. There are more *types* than just integers and doubles, but that is enough for right now.
+Here, we are declaring **variables**. What are variables? I'm glad you asked. **Variables** are places in your code where you can store *values* (aka numbers).  Different types of variables can store different types of things. If we want to store whole, counting numbers ( ...-2, -1, 0, 1, 2...) we will make an ```int``` or **Integer**. If we want to hold a number that is not a whole number (3.14, .99, -16.25), we would use a ```double```. There are more *types* than just integers and doubles, but that is enough for right now.
 
 
 
-In the line '''int seconds;''' we are telling the computer that we want a place to put whole numbers (hence the int at the begining), and we are going to call it "Seconds". 
+In the line ```int seconds;``` we are telling the computer that we want a place to put whole numbers (hence the int at the begining), and we are going to call it "Seconds". 
 The following lines are creating more *integer* variables with different names.
 
 
