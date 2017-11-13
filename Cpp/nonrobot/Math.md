@@ -103,10 +103,10 @@ With integer division, we don't care about the remainder, we only care about the
 But what if we *wanted* the remainder? That is where the percent sign (%) comes in. We call this operation "modulous" or *mod*. If I wanted the remainder of 10/4 I would write ```c = 10 % 4;``` or say "C equals 10 mod 4". After that line of code, what would C equal? That's right, it would equal 2. 
 
 To check that we're solid on this, write down the answers to the following equations (following integer math rules):
-1 / 10
-5 % 3
-2 / 3 + 4 / 3
-(7 % 4) / 2
+- 1 / 10
+- 5 % 3
+- 2 / 3 + 4 / 3
+- (7 % 4) / 2
 
 .
 
