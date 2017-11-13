@@ -4,19 +4,23 @@
 
 In the last lesson, we learned that we can write code that prints things to the screen, that is pretty good but not very interesting or dynamic. Today, lets write some code that does something. 
 
-Lets say we wanted to write code that converted seconds into hours, minutes, and seconds. On a sheet of paper - writing every step- figure out how many hours/minutes/seconds (HMS) are in 3661 seconds.
+Lets say we wanted to write code that converted seconds into hours, minutes, and seconds. On a sheet of paper - writing every step- figure out how many hours:minutes:seconds (H:M:S) are in 3661 seconds.
 
--
+.
 
--
+No seriously, do it on paper.
 
--
+.
 
-You should have gotten 1 hour, 1 minute, and 1 second. What if instead I asked for how many HMS are in 3776? 
+Do you have an answer?
+
+.
+
+You should have gotten 1 hour, 1 minute, and 1 second. What if instead I asked for how many H:M:S are in 3776? 
 
 Lets write a generic way to solve this problem so that we can solve it for any amount of seconds.
 
-There are multiple ways we could start - maybe we convert the seconds to minutes first and then convert minutes to hours. Or maybe we convert to hours first and figure out how many minutes are left. There is no right or wrong way to solve this problem (and many others). 
+There are multiple ways we could start - maybe we convert the seconds to minutes first and then convert minutes to hours. Or maybe we convert to hours first and figure out how many minutes are left. There is no right or wrong way to solve this problem, as long as it works. 
 
 For the sake of this tutorial, lets use the method that converts from seconds to minutes to hours.
 
@@ -72,7 +76,7 @@ int b;
 a = 4;
 // a is now assigned the value of 4
 b = 6;
-//b is now assigned the value of 5
+//b is now assigned the value of 6
 a = b;
 ```
 
@@ -81,7 +85,9 @@ If you thought a and b are not equal or that they both equal 4 - sorry, you didn
 
 a equals 6 because assigning values *always* goes from the right to the left. The variable on the left of the equal sign is the variable changing its value. Given this, if you try to write ```6 = a;``` the computer will get confused and be mad at you - you cannot reassign the value of 6. 6 is always 6.
 
-Lets play around with some math in coding! Open [this](https://ideone.com/Xxe0cj) and run it. See what happens! Try changing numbers, can you figure out what is happening?
+Lets play around with some math in coding! Open [this](https://ideone.com/f1QNhi) and run it. See what happens! Try changing numbers, can you figure out what is happening?
+
+Try to find three differences (in both the printed lines and the code) between the integers and the doubles. Once you think you have them, tell Katie.
 
 --- still needs works ---
 So now we need to convert our math-ish solution to code, but before we jump in we'll need to understand how to use variables and math.
