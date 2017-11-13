@@ -122,10 +122,10 @@ Alright.
 
 .
 
-1 / 10 = 0, because 10 goes into 1 no times (0). Integer division - no one cares about the remainder here.
-5 % 3 = 2. Here we only care about the remainder. 3 goes into 5 one time with a remainder of 2.
-2 / 3 + 4 /3 = 1 - When I was first learning this stuff, I messed up this question on a test. Math class had taught me to my core that this eqauls 2. But I was wrong. It equals 1. Why? Because integer division.
-(7 % 4) / 2 = 1 - this was more about combining concepts. 7 % 4 = 3 and 3 / 2 = 1. 
+- 1 / 10 = 0, because 10 goes into 1 no times (0). Integer division - no one cares about the remainder here.
+- 5 % 3 = 2. Here we only care about the remainder. 3 goes into 5 one time with a remainder of 2.
+- 2 / 3 + 4 /3 = 1 - When I was first learning this stuff, I messed up this question on a test. Math class had taught me to my core that this eqauls 2. But I was wrong. It equals 1. Why? Because integer division.
+- (7 % 4) / 2 = 1 - this was more about combining concepts. 7 % 4 = 3 and 3 / 2 = 1. 
 
 So, looking back at our math-ish, how can we convert it to code?
 ```
