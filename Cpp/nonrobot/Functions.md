@@ -1,6 +1,6 @@
 ## Let's Learn Functions!
 
-[<- Previously: Let's Learn Variables!](Math.md)
+[<- Previously: Let's Learn Variables Round 2!](LLVars2.md)
 
 
 **Objectives**: Learn how to use and write functions.
