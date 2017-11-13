@@ -43,7 +43,7 @@ ____ [starting seconds] is ____ [Hours] hours, ____ [Minutes] minutes, and ____ 
 
 If you're a little confused, ask for help!
 
-So now that we broke down how to solve that problem generically, now lets try to code it! I gave you a starting block (here)[https://ideone.com/1v4mFV].
+So now that we broke down how to solve that problem generically, now lets try to code it! I gave you a starting block [here]{https://ideone.com/1v4mFV).
 
 In this code, we see the header section like last time, as well as the main and the main body. However, in this code we see something new:
 
@@ -64,11 +64,9 @@ In the line ```int seconds;``` we are telling the computer that we want a place 
 The following lines are creating more *integer* variables with different names.
 
 
-math
-https://ideone.com/Xxe0cj
+[math](https://ideone.com/Xxe0cj)
 
-seconds
-https://ideone.com/I7EISj
+[seconds](https://ideone.com/I7EISj)
 
 [Next: Let's Learn Functions! ->](Functions.md)
 
