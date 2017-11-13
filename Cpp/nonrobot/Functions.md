@@ -3,7 +3,7 @@
 [<- Previously: Let's Learn Variables!](Math.md)
 
 
-**Objectives**: Learn how to use and write functions.z
+**Objectives**: Learn how to use and write functions.
 
 **Starting Point**:
 
