@@ -120,6 +120,6 @@ Update the [starter code](https://ideone.com/fork/1v4mFV) with your converted ma
 
 Once you have it working, change the value of ```seconds``` and see if it still gets the correct answer!
 
-[Next: Let's Learn More Variables! ->](LLVar2.md)
+[Next: Let's Learn More Variables! ->](LLVars2.md)
 
 [Back to Main](../../README.md)
