@@ -2,6 +2,11 @@
 
 [<- Previously: Let's Say Hello!](HelloWorld.md)
 
+
+**Objectives**: Learn how to write code using variables, learn about different variabes
+
+**Process**: 
+
 In the last lesson, we learned that we can write code that prints things to the screen, that is pretty good but not very interesting or dynamic. Today, lets write some code that does something. 
 
 Lets say we wanted to write code that converted seconds into hours, minutes, and seconds. On a sheet of paper - writing every step- figure out how many hours:minutes:seconds (H:M:S) are in 3661 seconds.
