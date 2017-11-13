@@ -94,6 +94,39 @@ Lets play around with some math in coding! Open this [math code](https://ideone.
 
 Try to find three differences (in both the printed lines and the code) between the integers and the doubles. Once you think you have them, tell Katie.
 
+One thing you may have noticed is that devision behave weird with integers - why would 4 devided by 15 return 0? Why is 15 devided by 4 only 3? The reason is because we are doing *integer math*. Integer math is very similar to our third grade math class. Remember when you first learned about division, we had these things called remainders? 
+
+![IMAGE](https://dj1hlxw0wr920.cloudfront.net/userfiles/wyzfiles/b410fcc6-7a7b-45a0-81b9-354423866db9.gif)
+
+With integer division, we don't care about the remainder, we only care about the number before the remainer. So with 128/5, we only care about the 25 and throw out/ignore the remainder 3. By the same logic, 1/10 will be 0 with integer division - The answer is 0 remainder 10. 
+
+But what if we *wanted* the remainder? That is where the percent sign (%) comes in. We call this operation "modulous" or *mod*. If I wanted the remainder of 10/4 I would write ```c = 10 % 4;``` or say "C equals 10 mod 4". After that line of code, what would C equal? That's right, it would equal 2. 
+
+To check that we're solid on this, write down the answers to the following equations (following integer math rules):
+1 / 10
+5 % 3
+2 / 3 + 4 / 3
+(7 % 4) / 2
+
+.
+
+Did you write them down?
+
+.
+
+Actually?
+
+.
+
+Alright. 
+
+.
+
+1 / 10 = 0, because 10 goes into 1 no times (0). Integer division - no one cares about the remainder here.
+5 % 3 = 2. Here we only care about the remainder. 3 goes into 5 one time with a remainder of 2.
+2 / 3 + 4 /3 = 1 - When I was first learning this stuff, I messed up this question on a test. Math class had taught me to my core that this eqauls 2. But I was wrong. It equals 1. Why? Because integer division.
+(7 % 4) / 2 = 1 - this was more about combining concepts. 7 % 4 = 3 and 3 / 2 = 1. 
+
 So, looking back at our math-ish, how can we convert it to code?
 ```
 1 | Starting Seconds = 3661
