@@ -63,10 +63,29 @@ Here, we are declaring **variables**. What are variables? I'm glad you asked. **
 In the line ```int seconds;``` we are telling the computer that we want a place to put whole numbers (hence the int at the begining), and we are going to call it "Seconds". 
 The following lines are creating more *integer* variables with different names.
 
+In the line ``` seconds = 3661; ```, we are *assigning a value* to ```seconds``` - in this case we are assigning the value of 3661. So now, ```seconds``` equals 3661 until we assign it a new value. When we assign values to variables we always put the variables on the left side of the equal sign, and the new value on the right side. To quickly demonstrate:
 
-[math](https://ideone.com/Xxe0cj)
+``` cpp
+int a;
+int b;
 
-[seconds](https://ideone.com/I7EISj)
+a = 4;
+// a is now assigned the value of 4
+b = 6;
+//b is now assigned the value of 5
+a = b;
+```
+
+We read code from top to bottom, and unlike in algebra - the value of the variable can be changed. What do you think a and b equal at the end of the code?
+If you thought a and b are not equal or that they both equal 4 - sorry, you didn't get it. But if you thought a and b both equaled six, then good job!
+
+a equals 6 because assigning values *always* goes from the right to the left. The variable on the left of the equal sign is the variable changing its value. Given this, if you try to write ```6 = a;``` the computer will get confused and be mad at you - you cannot reassign the value of 6. 6 is always 6.
+
+Lets play around with some math in coding! Open [this](https://ideone.com/Xxe0cj) and run it. See what happens! Try changing numbers, can you figure out what is happening?
+
+--- still needs works ---
+So now we need to convert our math-ish solution to code, but before we jump in we'll need to understand how to use variables and math.
+
 
 [Next: Let's Learn Functions! ->](Functions.md)
 
