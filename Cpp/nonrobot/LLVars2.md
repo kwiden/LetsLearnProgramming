@@ -23,8 +23,8 @@ The arguement for our ```printf``` function is
 
 ```"Our team number is %d", team_number```
 
-For the most part, we're saying "hey computer, print these characters exactly," but it doesn't print the %d literally. Instead it prints the value of ```team_number```, why is that?
-```%d``` is what called a *format specifiier*. *Format specifiier* is a fancy way of saying "a blank spot that we tell the computer to fill in." Its a very similar concept to madlibs. We use these when we want to print the value of a variable. **Change the value of ```team_number``` and run the code.**
+For the most part, we're saying "hey computer, print these characters exactly," but it doesn't print the ```%d``` literally. Instead it prints the value of ```team_number```, why is that?
+```%d``` is what called a *format specifiier*. *Format specifiier* is a fancy way of saying "a blank spot that we tell the computer to fill in." Its a very similar concept to madlibs. We use these when we want to print the value of a variable. **Change the value of** ```team_number``` **and run the code.**
 
 ![IMAGE](../../Images/madlibs.png)
 
