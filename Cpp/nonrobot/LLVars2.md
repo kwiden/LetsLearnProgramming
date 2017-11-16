@@ -5,7 +5,7 @@
 
 **Objectives**: Expand on our variable knowledge
 
-**Starting Point**: [This Code] (https://ideone.com/mgLXmw)
+**Starting Point**: [This Code](https://ideone.com/mgLXmw)
 
 **Process**: 
 
