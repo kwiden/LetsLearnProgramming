@@ -3,7 +3,7 @@
 This is your one stop shop to learn about programming FRC robotics in C++. 
 
 ### C++
- - **Basics**
+ - **The Basics**
      - [Let’s Say Hello!](Cpp/nonrobot/HelloWorld.md)
      - [Let's Learn Variables!](Cpp/nonrobot/Math.md)
      - [Let's Learn More Variables!](Cpp/nonrobot/LLVars2.md)
