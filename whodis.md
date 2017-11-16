@@ -10,10 +10,11 @@ One time Spectrum asked me questions about FRC and my job, which you can find [h
 Besides the engineering stuff, I have a [very cute dog](https://www.instagram.com/gatsbypaws/) who accompanies me on backpacking and camping trips. I also enjoy creative pursuits such as painting and playing various musical instruments.
 
 ### Why Lets Learn Programming?
+Training programmers to be prepared for FRC can be difficult. Students come in with different levels of experience and no matter what pace you pick, you are too fast for some students and too slow for others. Lets Learn Programming (LLP) is my solution for having students learn everything from 0 to Robot at their own pace. I used my years of experience as a TA for Iowa State's "Intro to C" courses and the structure of the hands-on labs to develop LLP.
 
-After a season with 1296, I was unhappy with our training system for new programmers and started creating the Lets Learn Programming (LLP) series. Having been a TA for Iowa State's "Intro to C" courses for nearly 4 years, I have a good grasp on how to teach newbies how to program. I used my experience as a TA and the structure of the hands-on labs to develop LLP.
+There are two divisions of LLP - Basics and Robots. The Basics tutorials give students a basic set of programming skills for them to successfully write code for robots. Any student with a computer and internet access can walk through The Basics due to all the code development and compliling being run on ideone.com. No installation required.
 
-Currently LLP is written with 1296's 2017 robot in mind. As LLP grows and evolves, it will become a broader tool for instruction that can be used by others not affiliated with 1296.
+LLP Robots is for students who have a base of programming knowledge and the correct tools for writing and deploying C++ code for FRC robots. Currently LLP Robots is written with 1296's 2017 robot as "the robot". As LLP grows and evolves, it will become a broader tool for instruction that can be used by others not affiliated with 1296.
 
 ### I have a suggestion for an improvement/correction
 
