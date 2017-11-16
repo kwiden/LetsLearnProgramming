@@ -17,4 +17,4 @@ Currently LLP is written with 1296's 2017 robot in mind. As LLP grows and evolve
 
 ### I have a suggestion for an improvement/correction
 
-I'm always looking for ways to improve my teaching resources. If you found something incorrect, typo'd, or needs improving you can either submit an issue on github or email me at knwiden at gmail dot com.
+I'm always looking for ways to improve my teaching resources. If you found something incorrect, typo'd, or needs improving you can either [submit an issue](https://github.com/kwiden/LetsLearnProgramming/issues) on github or email me at knwiden at gmail dot com.
