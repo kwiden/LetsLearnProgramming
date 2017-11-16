@@ -23,7 +23,7 @@ This is your one stop shop to learn about programming FRC robotics in C++.
   - [About](whodis.md)
   - [FRC 1296](http://www.rockwallrobotics.com)
 
-### External Links
+### Resources
 * [Chief Delphi](https://www.chiefdelphi.com/forums/portal.php)
 * [Cross The Road Electronics](http://www.ctr-electronics.com/)
     * [CTRE TalonSRX](http://www.ctr-electronics.com/talon-srx.html)
