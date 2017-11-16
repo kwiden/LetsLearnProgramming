@@ -16,6 +16,6 @@ There are two divisions of LLP - Basics and Robots. The Basics tutorials give st
 
 LLP Robots is for students who have a base of programming knowledge and the correct tools for writing and deploying C++ code for FRC robots. Currently LLP Robots is written with 1296's 2017 robot as "the robot". As LLP grows and evolves, it will become a broader tool for instruction that can be used by others not affiliated with 1296.
 
-### I have a suggestion for an improvement/correction
+### Have a suggestion for an improvement/correction?
 
 I'm always looking for ways to improve my teaching resources. If you found something incorrect, typo'd, or needs improving you can either [submit an issue](https://github.com/kwiden/LetsLearnProgramming/issues) on github or email me at knwiden at gmail dot com.
