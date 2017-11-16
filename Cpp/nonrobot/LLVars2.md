@@ -46,6 +46,7 @@ Click run to test your code. Did it work?
 
 Change your printf arguement so that ```num_kids``` is before ```team_number``` (don't forget the comma!) and click run. What changed? How does the computer pick which variable to put in which spot?
 
+[Still under construction, rest of tutorial coming soon]
 
 
 [Next: Let's Learn Functions! ->](Functions.md)
