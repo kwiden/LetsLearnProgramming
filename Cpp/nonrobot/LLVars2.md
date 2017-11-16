@@ -9,7 +9,7 @@
 
 **Process**: 
 
-In the previous lesson we learned about variables called integers ```int``` and doubles ```double```. We mostly focused on integers, and learned about integer division and how to store numbers in variables. We're going to expand a little more on variables in this lesson.
+1. In the previous lesson we learned about variables called integers ```int``` and doubles ```double```. We mostly focused on integers, and learned about integer division and how to store numbers in variables. We're going to expand a little more on variables in this lesson.
 
 Open the starter code, it's pretty short and I bet you know roughly was it does, but I want to clarify the line with ```printf```. 
 
@@ -45,6 +45,9 @@ Our main body should look like this:
 Click run to test your code. Did it work?
 
 Change your printf arguement so that ```num_kids``` is before ```team_number``` (don't forget the comma!) and click run. What changed? How does the computer pick which variable to put in which spot?
+
+2. 
+
 
 ### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
 
