@@ -11,6 +11,6 @@ Besides the engineering stuff, I have a [very cute dog](https://www.instagram.co
 
 ### Why Lets Learn Programming?
 
-After a season with 1296, I was unhappy with our training system for new programmers and started creating the Lets Learn Programming (LLP) series. Having been a TA for Iowa State's "Intro to C" courses for nearly 4 years, I have a good grasp on how to teach newbies how to program. I used my experience as a TA and the structure of the hands-on labs to develope LLP.
+After a season with 1296, I was unhappy with our training system for new programmers and started creating the Lets Learn Programming (LLP) series. Having been a TA for Iowa State's "Intro to C" courses for nearly 4 years, I have a good grasp on how to teach newbies how to program. I used my experience as a TA and the structure of the hands-on labs to develop LLP.
 
 Currently LLP is written with 1296's 2017 robot in mind. As LLP grows and evolves, it will become a broader tool for instruction that can be used by others not affiliated with 1296.
