@@ -5,7 +5,7 @@
 I'm a computer engineer working at [VEX Robotics](https://www.vexrobotics.com/). I write firmware for sensors and other products to enable student learning.
 
 I am also involed in FIRST Robotics. I was a student on FRC 1675 in Milwaukee, WI. After graduating high school, I went to Iowa State University and with two other students started FRC 3928. I mentored 3928 for three years before taking a break to focus on graduating. After graduation I moved to Texas to work at VEX and started mentoring FRC 1296. 
-One time Spectrum asked me questions about FRC and my job, which you can find [here](http://blog.spectrum3847.org/2016/10/katie-widen-this-is-how-i-work.html).
+One time Spectrum asked me questions about FRC and my job, which you can find [here](http://blog.spectrum3847.org/2016/10/katie-widen-this-is-how-i-work.html). I frequent Chief Delphi under the username [Katie_UPS](https://www.chiefdelphi.com/forums/member.php?u=25036).
 
 Besides the engineering stuff, I have a [very cute dog](https://www.instagram.com/gatsbypaws/) who accompanies me on backpacking and camping trips. I also enjoy creative pursuits such as painting and playing various musical instruments.
 
