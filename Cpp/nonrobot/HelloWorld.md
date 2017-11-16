@@ -2,7 +2,7 @@
 
 **Objectives**: Learn the basics of code and write a hello world program.
 
-**Starting Point**: https://ideone.com/7nFP2N
+**Starting Point**: [This code](https://ideone.com/7nFP2N)
 
 **Process**: 
 
