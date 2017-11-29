@@ -1,5 +1,5 @@
 ## Title
-[previous tutorial ->  ]()
+[<- Previously: Let's Learn Tank Drive!](LLTank.md)
 
 **Objectives** :
 
@@ -19,6 +19,7 @@
 
 ![IMAGE](../Images/placeholder.png)
 
-[next tutorial -> currently under construction, woops...](../README.md)
+
+[Next: Looks like Katie hasn't made it that far! ->](../README.md)
 
 [Back to Main](../README.md)
