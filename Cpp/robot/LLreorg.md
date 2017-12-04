@@ -16,7 +16,7 @@
  -[ComponentBase.h](frc1296code/ComponentBase.h)
  
  -[ComponentBase.cpp](frc1296code/ComponentBase.cpp)
-
+<a href="frc1296code/ComponentBase.cpp" target="_blank">New Tab</a>
 
 **Process** - 
 
