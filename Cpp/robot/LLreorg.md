@@ -9,6 +9,14 @@
 
 **Starting Point** - Your code from last time and a few files:
 
+ -[Component.h](frc1296code/Component.h)
+ 
+ -[Component.cpp](frc1296code/Component.cpp)
+ 
+ -[ComponentBase.h](frc1296code/ComponentBase.h)
+ 
+ -[ComponentBase.cpp](frc1296code/ComponentBase.cpp)
+
 
 **Process** - 
 
