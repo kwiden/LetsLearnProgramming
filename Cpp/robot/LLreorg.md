@@ -7,7 +7,7 @@
 **Task** : Create objects for each subsystem using a template,
 
 
-**Starting Point** - Your code from last time and a few files:
+**Starting Point** - Your code from last time and a few files (I recommend opening these in new tabs):
 
  -[Component.h](frc1296code/Component.h)
  
@@ -16,7 +16,7 @@
  -[ComponentBase.h](frc1296code/ComponentBase.h)
  
  -[ComponentBase.cpp](frc1296code/ComponentBase.cpp)
-<a href="frc1296code/ComponentBase.cpp" target="_blank">New Tab</a>
+ 
 
 **Process** - 
 
