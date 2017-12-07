@@ -17,6 +17,7 @@ This is your one stop shop to learn about programming FRC robotics in C++.
      - [Let's Climb!](Cpp/robot/LLClimb.md)
      - [Let's Get Some Gears!](Cpp/robot/LLGears.md)
      - [Let's Learn PID!](Cpp/robot/LLpid.md)
+     - [Let's Reorganize!](Cpp/robot/LLreorg.md)
  
  
 ### Other Things
