@@ -24,6 +24,7 @@ This is your one stop shop to learn about programming FRC robotics in C++.
   - [About](whodis.md)
   - [FRC 1296](http://www.rockwallrobotics.com)
   - [FRC 1296 2017 Code](https://github.com/FRC1296/RhsRobot2017)
+  - [List of Quotes](QuoteList.md)
 
 ### Resources
 * [Chief Delphi](https://www.chiefdelphi.com/forums/portal.php)
