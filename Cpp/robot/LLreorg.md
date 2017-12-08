@@ -28,8 +28,6 @@
 
 3. Make an object (.c and .h files) for every subsystem, ie drivetrain, arm, etc. Use Component.h and Component.cpp as your bases and replace where it says "Component" with the name of your object (ie drivetrain), but not where it says ComponentBase. For example check out what I did for [Katie.cpp](frc1296code/Katie.cpp) and [Katie.h](frc1296code/Katie.h). 
 
-![IMAGE](../Images/placeholder.png)
-
 
 [Next: Looks like Katie hasn't made it that far! ->](../../README.md)
 
