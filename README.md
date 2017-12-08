@@ -32,4 +32,4 @@ This is your one stop shop to learn about programming FRC robotics in C++.
     * [CTRE TalonSRX](http://www.ctr-electronics.com/talon-srx.html)
     * [CTRE Mag Encoder](http://www.ctr-electronics.com/srx-magnetic-encoder.html)
     * [Pigeon IMU](http://www.ctr-electronics.com/gadgeteer-imu-module-pigeon.html)
-* [Get Started with 2017 Control System](https://wpilib.screenstepslive.com/s/4485)
+* [Get Started with the Control System](http://wpilib.screenstepslive.com/s/currentCS)
