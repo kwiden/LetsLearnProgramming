@@ -66,7 +66,9 @@ Leave the world more interesting than it was before. - Neil Gaiman
 People who are unable to motivate themselves must be content in mediocrity. - Andrew Carnegie
 
 Grant me the serenity to accept the things I cannot change,
+
 Courage to change the things I can,
+
 And wisdom to know the difference.
 
 "Comparison is the thief of joy"
