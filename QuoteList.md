@@ -4,8 +4,8 @@
 
 ## On Life
 
-If you have a safe place to sleep, reasonable health and food in the fridge, you're probably living with surplus. You have enough breathing room to devote an hour to watching TV, or having an argument you don't need to have, or simply messing around online. You have time and leverage and technology and trust.
-For many people, this surplus is bigger than any human on Earth could have imagined just a hundred years ago.
+If you have a safe place to sleep, reasonable health and food in the fridge, you're probably living with surplus. You have enough breathing room to devote an hour to watching TV, or having an argument you don't need to have, or simply messing around online. You have time and leverage and technology and trust.  
+For many people, this surplus is bigger than any human on Earth could have imagined just a hundred years ago.  
 What will you spend it on? *If you're not drowning, you're a lifeguard.* -Seth Godin
 
 In business and in life, never believe your own body odor is perfume. - Haimchinkel Malintz Anaynikal (Alan Greenberg)
@@ -34,11 +34,11 @@ Knowledge is the one thing you keep even after you give it away.
 
 A man with one watch is certain about time. A man with two watches isn't.
 
-Maturity is knowing you were an idiot in the past.
-Wisdom is knowing that you'll be an idiot in the future.
-Common sense is knowing that you should try not to be an idiot NOW.
+Maturity is knowing you were an idiot in the past.  
+Wisdom is knowing that you'll be an idiot in the future.  
+Common sense is knowing that you should try not to be an idiot NOW.  
 
-"What is a weed? A plant whose virtues have never been discovered."
+"What is a weed? A plant whose virtues have never been discovered."  
 --Ralph Waldo Emerson
 
 "It's your ability to learn quickly and contribute quickly that matters." - Padmasree Warrior
@@ -128,9 +128,9 @@ The trouble with most of us is that we would rather be ruined by praise than sav
 
 Confidence is the consequence of action.
 
-Preparation breeds confidence.
-When you take the field knowing you are more prepared than your opponents, confidence ensues.
-Confidence breeds success…
+Preparation breeds confidence.  
+When you take the field knowing you are more prepared than your opponents, confidence ensues.  
+Confidence breeds success…  
 
 Be Confident, not arrogant.
 
@@ -164,10 +164,10 @@ To err is to engineer.
 
 "Champions are champions not because they do anything extraordinary but because they do the ordinary things better than anyone else." —Chuck Knoll
 
-There are three types of team players:
-1 - Hard workers, who are positive influences. – They do everything for the good of the team.
-2 - People who follow the examples of those around them.
-3 - Goof offs, and negative influences. – Do whatever they WANT to do.
+There are three types of team players:  
+1 - Hard workers, who are positive influences. – They do everything for the good of the team.  
+2 - People who follow the examples of those around them.  
+3 - Goof offs, and negative influences. – Do whatever they WANT to do.  
 Everyone needs to choose what type of team player they are.
 
 "Those who say it cannot be done should not interrupt the person doing it."
@@ -184,23 +184,23 @@ Spectacular achievement is always preceded by unspectacular preparation.
 
 Inspiration Exists, but it has to find you working. - Pablo Picasso
 
-We can never say we are fully prepared...
+We can never say we are fully prepared...  
 ...until we've already succeeded.
 
-“If I can do something, to give myself even a small edge over the competition, I should do it.
+“If I can do something, to give myself even a small edge over the competition, I should do it.  
 Those small edges will begin to add up; those small edges will give me victory.”
 
 "Just remember that if you're not working at your game to the utmost of your ability, there will be someone out there somewhere with equal ability who is.  And one day you'll play each other, and he'll have the advantage."
 
-It is simply a question of commitment...
-Are you sure that at the end of the year you will be able to truly say...
+It is simply a question of commitment...  
+Are you sure that at the end of the year you will be able to truly say...  
 ...we tried everything humanly possible?
 
 "You've got to get up every morning with determination if you're going to go to bed with satisfaction."
 
 “We do not rise to the level of our expectations. We fall to the level of our training.” —Archilochus
 
-The interesting thing about working “hard” is you can always work “harder.”
+The interesting thing about working “hard” is you can always work “harder.”  
 The coolest thing about being “good” is that you can always be “better”.
 
 Play until the buzzer sounds.
