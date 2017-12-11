@@ -2,36 +2,36 @@
 
 **note: needs some editing and cleaning**
 
-God, grant me the serenity to accept the things I cannot change,
-Courage to change the things I can,
-And wisdom to know the difference.
+>Grant me the serenity to accept the things I cannot change,
+>Courage to change the things I can,
+>And wisdom to know the difference.
 
-"Comparison is the thief of joy"
+>"Comparison is the thief of joy"
 
-“Fear None, Respect All” – Sun Tzu
+>“Fear None, Respect All” – Sun Tzu
 
-Be Confident, not arrogant.
+>Be Confident, not arrogant.
 
-Calm is contagious.
+>Calm is contagious.
 
-Preparation breeds confidence.
-When you take the field knowing you are more prepared than your opponents, confidence ensues.
-Confidence breeds success…
+>Preparation breeds confidence.
+>When you take the field knowing you are more prepared than your opponents, confidence ensues.
+>Confidence breeds success…
 
-“If I can do something, to give myself even a small edge over the competition, I should do it.
-Those small edges will begin to add up; those small edges will give me victory.”
+>“If I can do something, to give myself even a small edge over the competition, I should do it.
+>Those small edges will begin to add up; those small edges will give me victory.”
 
-"Just remember that if you're not working at your game to the utmost of your ability, there will be someone out there somewhere with equal ability who is.  And one day you'll play each other, and he'll have the advantage."
+>"Just remember that if you're not working at your game to the utmost of your ability, there will be someone out there somewhere with equal ability who is.  And one day you'll play each other, and he'll have the advantage."
 
-It is simply a question of commitment...
-Are you sure that at the end of the year you will be able to truly say...
-...we tried everything humanly possible?
+>It is simply a question of commitment...
+>Are you sure that at the end of the year you will be able to truly say...
+>...we tried everything humanly possible?
 
-"The secret of success is constancy to purpose."
+>"The secret of success is constancy to purpose."
 
-"The difference between the impossible and the possible lies in a man's determination."
+>"The difference between the impossible and the possible lies in a man's determination."
 
-“Life can be much broader, once you discover one simple fact, and that is that everything around you that you call ‘life’ was made up by people that were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again.” -Steve Jobs
+>“Life can be much broader, once you discover one simple fact, and that is that everything around you that you call ‘life’ was made up by people that were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again.” -Steve Jobs
 
 “My goal is not to fail fast. My goal is to succeed over the long run. They are not the same thing.” 
 
