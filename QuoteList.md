@@ -65,11 +65,9 @@ Leave the world more interesting than it was before. - Neil Gaiman
 
 People who are unable to motivate themselves must be content in mediocrity. - Andrew Carnegie
 
-Grant me the serenity to accept the things I cannot change,
-
-Courage to change the things I can,
-
-And wisdom to know the difference.
+  Grant me the serenity to accept the things I cannot change,  
+  Courage to change the things I can,  
+  And wisdom to know the difference.  
 
 "Comparison is the thief of joy"
 
@@ -140,13 +138,13 @@ Calm is contagious.
 
 ## On Engineering
 
-"As an engineer
-I'm sort of a student of
-how to make things work.
-
-As an engineer
-I'm sort of a student of
-how things fall apart."
+"As an engineer  
+I'm sort of a student of  
+how to make things work.  
+  
+As an engineer  
+I'm sort of a student of  
+how things fall apart."  
 
 “Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity." -Charles Mingus
 
