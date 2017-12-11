@@ -1,6 +1,6 @@
 [Back to Main](../README.md)
 
-*Thanks to John V-Neun for sharing his list of quotes with me*
+*Thanks to John V-Neun for sharing his collection of quotes*
 
 ## On Life
 
