@@ -1,4 +1,4 @@
-[Back to Main](../README.md)
+[Back to Main](README.md)
 
 *Thanks to John V-Neun for sharing his collection of quotes*
 
@@ -220,4 +220,4 @@ We all have work to do. Do good work. Do creative work. Do thoughtful work. Do y
 Restlessness is discontent and discontent is the first necessity of progress. Show me a thoroughly satisfied man and I will show you a failure. - Edison
 
 
-[Back to Main](../README.md)
+[Back to Main](README.md)
