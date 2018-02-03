@@ -65,6 +65,7 @@ The format specifier for doubles is ```%lf```. Lets change fix our code so when 
 3. So, now that we're feeling good - lets open [this code](https://ideone.com/qdeNlR). Look at the format specifiers and fix the code so that it prints out the values of ingredient_1 and ingredient_2 in the right order. 
 
 4. And beyond...
+
 There are more variable types than %d and %lf, and we'll be printing them later. For now, here is a table for format specifiers:
 
 | Type   | Declaration         | Specifier | Printed  |
