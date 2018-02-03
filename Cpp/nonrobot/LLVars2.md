@@ -46,11 +46,35 @@ Click run to test your code. Did it work?
 
 Change your printf arguement so that ```num_kids``` is before ```team_number``` (don't forget the comma!) and click run. What changed? How does the computer pick which variable to put in which spot?
 
-2. 
+2.  Now lets try printing a _double_. After we print out our team number, lets make a double. I'm going to call mine pie and pick a value to assign to it. You can pick whatever name and value you want, just make sure its a decimal:
 
+```cpp
+	double pie = 3.1415;
+```
+Using ```printf()```, lets print out our _double_:
 
-### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
+```cpp
+	printf("The value of pie is %d",pie);
+```
+Compile and run your code - did it behave how you expected? 
 
+When we use the format specifier ```%d``` we are telling the computer we are going to print a integer. I like to think of it as a similar idea to in madlibs when the blanks have the type of word under them (adjective, verb, noun, etc). Sometimes madlibs is more fun when you ignore the type of word, but more often it just doesn't make any sense - its the same with format specifiers.
+
+The format specifier for doubles is ```%lf```. Lets change fix our code so when we print the value of our double, we're using ```%lf``` instead of ```%d```. Compile and run. Does it look better?
+
+3. So, now that we're feeling good - lets open [this code](https://ideone.com/qdeNlR). Look at the format specifiers and fix the code so that it prints out the values of ingredient_1 and ingredient_2 in the right order. 
+
+4. And beyond...
+There are more variable types than %d and %lf, and we'll be printing them later. For now, here is a table for format specifiers:
+
+| Type   | Declaration         | Specifier | Printed  |
+|--------|---------------------|-----------|----------|
+| int    | int i = 5;          | %d        | 5        |
+| double | double i = 5.555;   | %lf       | 5.555    |
+| char   | char i = 'z';       | %c        | z        |
+| string | string i = "hello!" | %s        | "hello!" |
+
+Feel free to play around and practice printing the different types.
 
 [Next: Let's Learn Functions! ->](Functions.md)
 
