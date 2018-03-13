@@ -77,7 +77,8 @@ There are more variable types than %d and %lf, and we'll be printing them later.
 
 Feel free to play around and practice printing the different types.
 
-Lets try one last exercise to cement your knowledge:
+
+5. Lets try one last exercise to cement your knowledge:
 
 [Starting Code](http://ideone.com/BI3uZB)
 
