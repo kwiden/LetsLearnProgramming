@@ -82,10 +82,13 @@ Feel free to play around and practice printing the different types.
 
 [Starting Code](http://ideone.com/BI3uZB)
 
-Alex wants to build himself a drivetrain and has everything but the wheels, gearboxes, and encoders. He plans on buying them from VEXpro but seeing as it’s not for 1296, he'll have to pay for them, and he won't even be tax exempt! 
-He's not sure if he'll build something with 2/4/6/8/16 wheels, how many versa planetaries he will want, and if he will put encoders on all the wheels or just two. Make a program that lets him enter in different amounts of each item and prints what the final cost will be with tax. 
-Prices and Tax rate are in the template.
-Example:  If Alex wants 4 versa gearboxes, 6 colson wheels, and 2 encoders - his item total will be $249.88, the tax will be $12.49, and the final price will be $262.37
+>>Alex wants to build himself a drivetrain and has everything but the wheels, gearboxes, and encoders. He plans on buying them from VEXpro but seeing as it’s not for 1296, he'll have to pay for them, and he won't even be tax exempt! 
+>>
+>>He's not sure if he'll build something with 2/4/6/8/16 wheels, how many versa planetaries he will want, and if he will put encoders on all the wheels or just two. Make a program that lets him enter in different amounts of each item and prints what the final cost will be with tax. 
+>>
+>>Prices and Tax rate are in the template.
+>>
+>>Example:  If Alex wants 4 versa gearboxes, 6 colson wheels, and 2 encoders - his item total will be $249.88, the tax will be $12.49, and the final price will be $262.37
 
 Show Katie your working program and remember you can always ask for help!
 
