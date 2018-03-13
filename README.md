@@ -26,7 +26,7 @@ This is your one stop shop to learn about programming FRC robotics in C++.
   - [Words of Wisdom](QuoteList.md)
 
 ### Resources
-* [2017 FRC 1296 Code](https://github.com/FRC1296/RhsRobot2017)//[2018 FRC 1296 Code](https://github.com/FRC1296/RhsRobot2018)
+* FRC 1296 Code: [2018](https://github.com/FRC1296/RhsRobot2018) || [2017](https://github.com/FRC1296/RhsRobot2017) 
 * [Chief Delphi](https://www.chiefdelphi.com/forums/portal.php)
 * [Cross The Road Electronics](http://www.ctr-electronics.com/)
     * [CTRE TalonSRX](http://www.ctr-electronics.com/talon-srx.html)
