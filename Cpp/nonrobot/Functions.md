@@ -5,7 +5,7 @@
 
 **Objectives**: Learn how to use and write functions.
 
-**Starting Point**:
+**Starting Point**: https://ideone.com/D9dgQF
 
 **Process**: 
 Sometimes we want to use the same code over and over again. In the last lesson, we had to write product\*price a lot and while that was only one line, imagine how much work it would have been if we calculated the tax for each set of parts (wheels, encoders, etc). 
@@ -44,6 +44,18 @@ This whole section is called the _function body_. This is where all the code in 
 The last line is the _return statement_. Because everything inside our function only lives inside the function (no one else can see inside the function), we use return statements to give information back to our other code. We can only have one return statement and any code after a return statement will never be run! Return is akin to "The End" in a book. We have to make sure the type of data we return is set as the return type at the beggining of the function header. 
 
 We can have all different kinds of return types - int, double, char, float and even void! Void is when our function doesn't return anything
+
+In our starting code, we call myFunction(2,6). What do you think x will equal after calling that line?
+
+If you guessed 12, you'd be correct! To understand why, when we call _return_ in the function, we are saying "wherever you called me, give that line of code this data". 
+
+What do you think would happen we changed our code to the following?
+
+```
+int x = myFunction(myFunction(2,2),3);
+```
+Try to figure it out and then edit the code and try it out. Explain to Katie what you think is happening. 
+
 
 ### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
 
