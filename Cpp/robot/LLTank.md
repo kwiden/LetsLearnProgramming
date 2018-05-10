@@ -112,7 +112,7 @@ Tada! You did it!
 
 If time permits, try arcade drive. I don’t want to give you all the answers, so I’ll leave you with this diagram:
 
-[!IMAGE](../../Images/arcadedrive.PNG)
+![IMAGE](/Images/arcadedrive.PNG)
 
 Make sure that when you add the axis, the number doesn’t exceed 1 (or go below -1). You can use an if-statement to check and correct it (if it's greater than 1/less than -1, set the value to 1 or -1). 
 
