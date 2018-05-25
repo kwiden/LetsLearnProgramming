@@ -56,6 +56,32 @@ int x = myFunction(myFunction(2,2),3);
 ```
 Try to figure it out and then edit the code and try it out. Explain to Katie what you think is happening. 
 
+.
+
+.
+
+.
+
+.
+
+Did you try?
+
+.
+
+.
+
+.
+
+.
+
+.
+
+After that line of code, x will equal 12. Why is that?
+```
+int x = myFunction(myFunction(2,2),3);
+```
+We need to evaluate the inner most "my function" first - its like order of operations. `myFunction(2,2)` _returns_ 4. We can effectively replace `myFunction(2,2)` with `4`.  Now we're calling the outermost `myFunction()` as `myFunction(4,3)` which returns 12 and is assigned to x. 
+
 
 ### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
 
