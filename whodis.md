@@ -16,6 +16,9 @@ One time Spectrum asked me questions about FRC and my job, which you can find [h
 
 Besides the engineering stuff, I have a [very cute dog](https://www.instagram.com/gatsbypaws/) who accompanies me on backpacking and camping trips. I also enjoy creative pursuits such as painting and playing various musical instruments.
 
+### Who else is helping?
+
+Jeffrey Tessitore is helping. You can learn more about him when he writes his bio here :)
 
 ### I have a suggestion for an improvement/correction
 
