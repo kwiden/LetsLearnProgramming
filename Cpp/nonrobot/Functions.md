@@ -83,7 +83,16 @@ int x = myFunction(myFunction(2,2),3);
 We need to evaluate the inner most "my function" first - its like order of operations. `myFunction(2,2)` _returns_ 4. We can effectively replace `myFunction(2,2)` with `4`.  Now we're calling the outermost `myFunction()` as `myFunction(4,3)` which returns 12 and is assigned to x. 
 
 
-### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
+So lets practice with functions some more.
+
+Lets open up [this code](https://ideone.com/fsZuQQ) and solve the following problem:
+Computer the difference in area between a square and a circle of the same diameter. Our function will take in a diameter and return the difference in area. For this practice, we only need to fill in the function body.
+
+
+And just to be positive, we'll write two more funcitons: one that converts from celcius to farenheit and one that converts farenheit to celcius.
+Here is the formula for celcius to farenheit to get you started: Farenheit = Celcius * 1.8 + 32
+
+[Here is your starter code](https://ideone.com/E1Os3n).
 
 [Next: Let's Learn unConditionally! ->](Conditionals.md)
 
