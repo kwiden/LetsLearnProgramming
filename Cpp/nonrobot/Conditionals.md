@@ -106,9 +106,9 @@ else if(x > 3)
 
 [Lets Practice!](https://ideone.com/xQ5m4k) 
 
-What will this code print when foo = 6 and bar = 7?
-What about foo = 4, bar = 2?
-Or foo = 2, bar = 3?
+* What will this code print when foo = 6 and bar = 7?
+* What about foo = 4, bar = 2?
+* Or foo = 2, bar = 3?
 
 Change the values of foo and bar and see if you're correct!
 
