@@ -90,6 +90,7 @@ Computer the difference in area between a square and a circle of the same diamet
 
 
 And just to be positive, we'll write two more funcitons: one that converts from celcius to farenheit and one that converts farenheit to celcius.
+
 Here is the formula for celcius to farenheit to get you started: Farenheit = Celcius * 1.8 + 32
 
 [Here is your starter code](https://ideone.com/E1Os3n).
