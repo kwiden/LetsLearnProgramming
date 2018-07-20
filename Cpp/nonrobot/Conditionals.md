@@ -46,7 +46,75 @@ else{
 
 Move the last printf statement so that we print it in the else block. Run your code. Change the values of a and b and run your code again. Does it work?
 
-How does the else block work? When we have an if statement, the computer only runs the code inside the if block if the statement is true. If there is an else block attached to the end of the if statement, the computer will run the else block if the statement is false. 
+How does the else block work? When we have an if statement, the computer only runs the code inside the if block if the statement is true. If there is an else block attached to the end of the if statement, the computer will run the else block if the statement is false.
+
+We can also make an _else if statement_ which is like an else and an if statement combined together. Look at the following code:
+
+```
+if(temperature > 90)
+{
+    printf("Its really hot out!");
+}
+else if(temperature > 50)
+{
+    printf("Its nice outside!");
+}
+else
+{
+    printf("Its cold outside!");
+}
+``` 
+What do you think it prints if the temperature is 99? 
+What about 60?
+What about 32?
+
+If a chain of if/if else/else blocks, only one block will run and they check in order. If the first if is true, then the computer doesn't execute the other blocks in the chain. Additionally, we can't have multiple else blocks unless they are else-if blocks.
+
+This won't work:
+
+```
+if(x > 1)
+{
+  //code
+}
+else
+{
+//code
+}
+else
+{
+//code
+}
+```
+
+Neither will this:
+
+```
+if(x < 1)
+{
+  //code
+}
+else
+{
+//code
+}
+else if(x > 3)
+{
+//code
+}
+```
+
+[Lets Practice!](https://ideone.com/xQ5m4k) 
+
+What will this code print when foo = 6 and bar = 7?
+What about foo = 4, bar = 2?
+Or foo = 2, bar = 3?
+
+Change the values of foo and bar and see if you're correct!
+
+Now [write your own code](https://ideone.com/qpt6fA). Using the template, write a _function_ that returns whichever number is larger and return 0 if the numbers are equal. 
+
+
 
 ### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
 
