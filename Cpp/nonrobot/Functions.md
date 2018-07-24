@@ -88,7 +88,7 @@ So lets practice with functions some more.
 Lets open up [this code](https://ideone.com/fsZuQQ) and solve the following problem:
 Compute the difference in area between a square and a circle of the same diameter. Our function will take in a diameter and return the difference in area. For this practice, we only need to fill in the function body.
 
-
+![Image](Images/Circle.png)
 
 
 And just to be positive, we'll write two more funcitons: one that converts from celcius to farenheit and one that converts farenheit to celcius.
