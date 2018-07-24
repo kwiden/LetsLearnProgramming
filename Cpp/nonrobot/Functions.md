@@ -82,7 +82,7 @@ int x = myFunction(myFunction(2,2),3);
 ```
 We need to evaluate the inner most "my function" first - its like order of operations. `myFunction(2,2)` _returns_ 4. We can effectively replace `myFunction(2,2)` with `4`.  Now we're calling the outermost `myFunction()` as `myFunction(4,3)` which returns 12 and is assigned to x. 
 
-
+----------------------------------------------------------------------------------------
 So lets practice with functions some more.
 
 Lets open up [this code](https://ideone.com/fsZuQQ) and solve the following problem:
