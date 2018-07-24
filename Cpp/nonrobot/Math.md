@@ -2,6 +2,7 @@
 
 [<- Previously: Let's Say Hello!](HelloWorld.md)
 
+----------------------------------------------------------------------------------------
 
 **Objectives**: Learn how to write code using variables, learn about different variabes
 
@@ -152,6 +153,8 @@ Now we need to get rid of all those words! While we understand english, the comp
 Update the [starter code](https://ideone.com/fork/1v4mFV) with your converted math-ish and click "run"/"ideone it". Did it work? Ask for help to solve any problems. 
 
 Once you have it working, change the value of ```seconds``` and see if it still gets the correct answer!
+
+----------------------------------------------------------------------------------------
 
 [Next: Let's Learn More Variables! ->](LLVars2.md)
 
