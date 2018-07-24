@@ -3,6 +3,8 @@
 
 [<- Previously: Let's Learn Variables!](Math.md)
 
+----------------------------------------------------------------------------------------
+
 **Objectives**: Expand on our variable knowledge
 
 **Starting Point**: [This Code](https://ideone.com/mgLXmw)
@@ -93,6 +95,8 @@ Feel free to play around and practice printing the different types.
 Show Katie your working program and remember you can always ask for help!
 
 ![IMAGE](../../Images/alex.png)
+
+----------------------------------------------------------------------------------------
 
 [Next: Let's Learn Functions! ->](Functions.md)
 
