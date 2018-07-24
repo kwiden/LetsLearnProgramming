@@ -2,6 +2,8 @@
 
 [<- Previously:  Let's Learn Functions!](Functions.md)
 
+----------------------------------------------------------------------------------------
+
 **Objectives**: Learn about booleans and if/else statements.
 
 **Process**: 
@@ -117,6 +119,8 @@ Now [write your own code](https://ideone.com/qpt6fA). Using the template, write 
 
 
 ### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
+
+----------------------------------------------------------------------------------------
 
 [Next: Let's Loop de Loop! ->](Loops.md)
 
