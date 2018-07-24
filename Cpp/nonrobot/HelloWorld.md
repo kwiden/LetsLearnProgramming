@@ -28,6 +28,8 @@
     
     Tada! You did it! Feel free to change what your code prints out to play with it.
 
+----------------------------------------------------------------------------------------
+
 [Next: Let's Learn Variables! ->](Math.md)
 
 [Back to Main](../../README.md)
