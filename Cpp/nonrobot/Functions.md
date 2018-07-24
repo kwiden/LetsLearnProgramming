@@ -2,6 +2,7 @@
 
 [<- Previously: Let's Learn More Variables!](LLVars2.md)
 
+----------------------------------------------------------------------------------------
 
 **Objectives**: Learn how to use and write functions.
 
@@ -100,6 +101,8 @@ Lets cement our knowledge and write two more funcitons: one that converts from c
 Here is the formula for celcius to farenheit to get you started: Farenheit = Celcius * 1.8 + 32
 
 [Here is your starter code](https://ideone.com/E1Os3n).
+
+----------------------------------------------------------------------------------------
 
 [Next: Let's Learn unConditionally! ->](Conditionals.md)
 
