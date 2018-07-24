@@ -91,7 +91,11 @@ Compute the difference in area between a square and a circle of the same diamete
 ![Image](/Images/circle.PNG)
 
 
-And just to be positive, we'll write two more funcitons: one that converts from celcius to farenheit and one that converts farenheit to celcius.
+At the top of our starter code for the circle square problem, we noticed that the function was after the main and before main we had the function header: ```double diff(int diameter);``` This is called a _function prototype_ and is used to tell the computer "Hey, I'm going to call this function that is defined after you see it's name, but I promise it exists." If we don't include the prototyoe, the code will not compile and will report that we are calling a function that doesn't exist. 
+
+----------------------------------------------------------------------------------------
+
+Lets cement our knowledge and write two more funcitons: one that converts from celcius to farenheit and one that converts farenheit to celcius. Remember to add the function prototypes!
 
 Here is the formula for celcius to farenheit to get you started: Farenheit = Celcius * 1.8 + 32
 
