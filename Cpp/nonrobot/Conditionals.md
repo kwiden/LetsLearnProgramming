@@ -116,6 +116,64 @@ Change the values of foo and bar and see if you're correct!
 
 Now [write your own code](https://ideone.com/qpt6fA). Using the template, write a _function_ that returns whichever number is larger and return 0 if the numbers are equal. 
 
+------------------------------------------------------------------------------
+
+### And Or
+
+Katie has the final say on what music can play at the bunker, her rules are:
+_If it clean and it is on spotify, then she will add it to the bunker playlist._
+
+How could we write that as code? We could do:
+```
+if(song is clean)
+{
+    if(song is on spotify)
+    {
+        song is added to playlist
+    }
+} 
+```
+
+A faster way to write it would be:
+```
+if(song is clean && song is on spotify)
+{
+    song is added to playlist
+} 
+```
+
+The `&&` means AND. x AND y only returns true if and only if x is true and y is true. 
+
+FMJ has rules about when you have to wear camo:
+_If it is a competition or it is an outreach event, you must wear your camo._
+
+We write this as
+```
+if(competition || outreach)
+{
+    wear your orange camo
+}
+```
+
+The `||` means OR. x OR y returns true is either x is true or y is true or both. 
+
+Gatsby (the dog) has one rule about food:
+_If the food is not stale, he will eat it._ 
+
+We can represent that as follows:
+```
+if(!stale)
+{
+    gatsby eats the food
+}
+```
+The `!` is NOT. NOT x returns true when x is false. 
+
+Lets practice with AND, OR, and NOT with [this code](https://ideone.com/8AC4tg).
+Finish my code to correctly identify a super human and if they are a hero or villian. 
+
+----------------------------------------------------------------------------------------
+
 
 
 ### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
