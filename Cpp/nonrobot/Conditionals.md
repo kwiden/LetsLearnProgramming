@@ -121,7 +121,7 @@ Now [write your own code](https://ideone.com/qpt6fA). Using the template, write 
 ### And Or
 
 Katie has the final say on what music can play at the bunker, her rules are:
-_If it clean and it is on spotify, then she will add it to the bunker playlist._
+_If it is clean and it is on spotify, then she will add it to the bunker playlist._
 
 How could we write that as code? We could do:
 ```
@@ -144,6 +144,14 @@ if(song is clean && song is on spotify)
 
 The `&&` means AND. x AND y only returns true if and only if x is true and y is true. 
 
+|X | Y | X AND Y |
+|--|--|--|
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
+
+
 FMJ has rules about when you have to wear camo:
 _If it is a competition or it is an outreach event, you must wear your camo._
 
@@ -157,6 +165,13 @@ if(competition || outreach)
 
 The `||` means OR. x OR y returns true is either x is true or y is true or both. 
 
+|X | Y | X OR Y |
+|--|--|--|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
+
 Gatsby (the dog) has one rule about food:
 _If the food is not stale, he will eat it._ 
 
@@ -168,6 +183,10 @@ if(!stale)
 }
 ```
 The `!` is NOT. NOT x returns true when x is false. 
+|X | NOT X|
+|--|--| 
+| 0 | 1 |
+| 1 | 0 |
 
 Lets practice with AND, OR, and NOT with [this code](https://ideone.com/8AC4tg).
 Finish my code to correctly identify a super human and if they are a hero or villian. 
