@@ -174,11 +174,22 @@ Finish my code to correctly identify a super human and if they are a hero or vil
 
 ----------------------------------------------------------------------------------------
 
+As a group, let’s write a function that determines if the given year is a leap year with these rules:
+There is a leap year every year whose number is perfectly divisible by four - except for years which are both divisible by 100 and not divisible by 400. The second part of the rule affects century years. For example; the century years 1600 and 2000 are leap years, but the century years 1700, 1800, and 1900 are not.
 
-
-### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
+Our function will print “[year] is a leap year” or “[year] is not a leap year”
 
 ----------------------------------------------------------------------------------------
+
+### Who gets into Stanford?
+
+Everyone knows that there are only 3 criteria that are used to get into Stanford: GPA, FRC, and Family Tree. You can get into Stanford if you have at least a 3.95 GPA (on a 4.0 scale) but if you are an FRC student, you only need a 3.3. However, if you are related to Darth Vader - all bets are off and you cannot get in! Write a function that returns 1 if a student would get in and a 0 if the student would not get in. The function will take in three parameters: GPA, FRC student (1 or 0), and relation to Darth Vader (1 or 0).
+
+There is no template code, you get to name your function, the 
+parameters, and call it from main. Make sure you print something 
+out so we can see if your code works!
+
+
 
 [Next: Let's Loop de Loop! ->](Loops.md)
 
