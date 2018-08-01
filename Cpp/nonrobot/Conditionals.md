@@ -183,6 +183,7 @@ if(!stale)
 }
 ```
 The `!` is NOT. NOT x returns true when x is false. 
+
 |X | NOT X|
 |--|--| 
 | 0 | 1 |
