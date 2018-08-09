@@ -46,6 +46,21 @@ Lastly, the `++i` tells the code to increment `i` by one at the conclusion of ea
 
 Now, try changing the code to count to ten by twos. 
 
+//word problem that involves using for loops
+
+Now, Andy, Anna, and Katie are playing the game "3, 6, 9." The rules of the game are as follows:
+* Players take turns saying a number, increasing by one each time
+* If a number has a 3, 6, or 9 in any position, the player claps instead of saying a number
+* If a number has more than one of 3, 6, or 9, the player claps the amount of times those numbers appear (i.e. 36 = two claps)
+
+Andy, Anna, and Katie aren't very good at this game. They only made it to thirty before messing up! If they had all three played the game correctly, have the computer output what they should have said.
+
+//introduce while loops
+
+//while loop example
+
+//word problem that uses while loops
+
 ### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
 
 ----------------------------------------------------------------------------------------
