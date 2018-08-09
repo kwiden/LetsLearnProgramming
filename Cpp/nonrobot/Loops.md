@@ -30,6 +30,22 @@ Oh contrair, young pupil, what if I asked you to count to one hundred? One thous
 
 There are these amazing things in code called *for loops* and *while loops*! For now, let's start with for loops.
 
+Take a look at [this code](https://ideone.com/OyduQ8).
+
+Run the code. What do you notice with the output?
+
+Let's take a closer look at this line: `for (int i = 1; i <= 5; ++i)`
+
+First, the keyword `for` lets C++ know that this is a for loop.
+
+Next, the `int i = 1` declares a new integer to be used as a counter for the loop. (Katie pls edit)
+
+Then, the `i <= 5` limits the for loop by setting a bound for the integer.
+
+Lastly, the `++i` tells the code to increment `i` by one at the conclusion of each [iteration](https://www.techopedia.com/definition/3821/iteration) of the loop.
+
+Now, try changing the code to count to ten by twos. 
+
 ### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
 
 ----------------------------------------------------------------------------------------
