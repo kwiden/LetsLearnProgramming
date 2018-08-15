@@ -42,16 +42,18 @@ Next, the `int i = 1` declares a new integer to be used as a counter for the loo
 
 Then, the `i <= 5` limits the for loop by setting a bound for the integer. This is how high (or low) we want to count. The loop will run over and over again as long as this statement is true. 
 
-Lastly, the `++i` tells the code to increment `i` by one at the conclusion of each [iteration](https://www.techopedia.com/definition/3821/iteration) of the loop. We could have done `i = i + 1` which would be the same thing. Other things we could do are decrementing i with `i--` aka `i = i - 1`, multiply i by three `i = i*3`, or multiple i by i `i = i*i`. Just be careful - if you do `for(i = 10; i > 5; i = i + 1)` then you'll be in an infinite loop! `i` will always be greater than 5 and the for loop will run forever!
+Lastly, the `++i` tells the code to increment `i` by one at the conclusion of each [iteration](https://www.techopedia.com/definition/3821/iteration) of the loop (an iteration of the loop is all the code between the open and close curly brackets `{ }`). We could have done `i = i + 1` which would be the same thing. Other things we could do are decrementing i with `i--` aka `i = i - 1`, multiply i by three `i = i*3`, or multiple i by i `i = i*i`. 
+
+Just be careful - if you do `for(i = 10; i > 5; i = i + 1)` then you'll be in an infinite loop! `i` will always be greater than 5 and the for loop will run forever!
 
 To practice, try changing the code to count to ten by twos. 
 
 ------------------------------------------------------------------------------------------
 
-Now, Andy, Anna, and Katie are playing the game "2, 3." The rules of the game are as follows:
+Now, Andy, Anna, and Katie are playing the game "3, 5." The rules of the game are as follows:
 * Players take turns saying a number, increasing by one each time
-* If a number is divisible by 2 or 3, the player claps instead of saying a number
-* If a number is divisible by 2 AND 3, the player claps twice.
+* If a number is divisible by either 5 or 3, the player claps instead of saying a number
+* If a number is divisible by both 5 and 3, the player claps twice.
 
 Andy, Anna, and Katie aren't very good at this game. They only made it to thirty before messing up! Have the computer output what they should have said if they had all three played the game correctly up to 50.
 
