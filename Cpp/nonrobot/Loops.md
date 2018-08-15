@@ -38,22 +38,24 @@ Let's take a closer look at this line: `for (int i = 1; i <= 5; ++i)`
 
 First, the keyword `for` lets C++ know that this is a for loop.
 
-Next, the `int i = 1` declares a new integer to be used as a counter for the loop. (Katie pls edit)
+Next, the `int i = 1` declares a new integer to be used as a counter for the loop. Think of this as where we start counting - we can start counting at 0, 1, 10, 15, 562, etc. 
 
-Then, the `i <= 5` limits the for loop by setting a bound for the integer.
+Then, the `i <= 5` limits the for loop by setting a bound for the integer. This is how high (or low) we want to count. The loop will run over and over again as long as this statement is true. 
 
-Lastly, the `++i` tells the code to increment `i` by one at the conclusion of each [iteration](https://www.techopedia.com/definition/3821/iteration) of the loop.
+Lastly, the `++i` tells the code to increment `i` by one at the conclusion of each [iteration](https://www.techopedia.com/definition/3821/iteration) of the loop. We could have done `i = i + 1` which would be the same thing. Other things we could do are decrementing i with `i--` aka `i = i - 1`, multiply i by three `i = i*3`, or multiple i by i `i = i*i`. Just be careful - if you do `for(i = 10; i > 5; i = i + 1)` then you'll be in an infinite loop! `i` will always be greater than 5 and the for loop will run forever!
 
-Now, try changing the code to count to ten by twos. 
+To practice, try changing the code to count to ten by twos. 
 
-//word problem that involves using for loops
+------------------------------------------------------------------------------------------
 
-Now, Andy, Anna, and Katie are playing the game "3, 6, 9." The rules of the game are as follows:
+Now, Andy, Anna, and Katie are playing the game "2, 3." The rules of the game are as follows:
 * Players take turns saying a number, increasing by one each time
-* If a number has a 3, 6, or 9 in any position, the player claps instead of saying a number
-* If a number has more than one of 3, 6, or 9, the player claps the amount of times those numbers appear (i.e. 36 = two claps)
+* If a number is divisible by 2 or 3, the player claps instead of saying a number
+* If a number is divisible by 2 AND 3, the player claps twice.
 
-Andy, Anna, and Katie aren't very good at this game. They only made it to thirty before messing up! If they had all three played the game correctly, have the computer output what they should have said.
+Andy, Anna, and Katie aren't very good at this game. They only made it to thirty before messing up! Have the computer output what they should have said if they had all three played the game correctly up to 50.
+
+---------------------------------------------------------------------------------------
 
 //introduce while loops
 
