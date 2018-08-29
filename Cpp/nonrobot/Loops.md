@@ -62,9 +62,11 @@ Andy, Anna, and Katie aren't very good at this game. They only made it to thirty
 //introduce while loops
 
 //while loop example
+
 Let's go [here](https://ideone.com/Z2YCZ2).
 
 //word problem that uses while loops
+
 Lets rewrite the 3,5 game using a while loop!
 
 ### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
