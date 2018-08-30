@@ -42,7 +42,9 @@ Next, the `int i = 1` declares a new integer to be used as a counter for the loo
 
 Then, the `i <= 5` limits the for loop by setting a bound for the integer. This is how high (or low) we want to count. The loop will run over and over again as long as this statement is true. 
 
-Lastly, the `++i` tells the code to increment `i` by one at the conclusion of each [iteration](https://www.techopedia.com/definition/3821/iteration) of the loop (an iteration of the loop is all the code between the open and close curly brackets `{ }`). We could have done `i = i + 1` which would be the same thing. Other things we could do are decrementing i with `i--` aka `i = i - 1`, multiply i by three `i = i*3`, or multiple i by i `i = i*i`. 
+Lastly, the `++i` tells the code to increment `i` by one at the conclusion of each [iteration](https://www.techopedia.com/definition/3821/iteration) of the loop. An _iteration_ is what we call the code that is actually run in the loop - its all the code that exists between `{` and `}`.  
+
+Note: Our post-iteration action can be any line of code. We could have done `i = i + 1` which would be the same thing. Other things we could do are decrementing i with `i--` aka `i = i - 1`, multiply i by three `i = i*3`, or multiple i by i `i = i*i`. 
 
 Just be careful - if you do `for(i = 10; i > 5; i = i + 1)` then you'll be in an infinite loop! `i` will always be greater than 5 and the for loop will run forever!
 
@@ -59,15 +61,51 @@ Andy, Anna, and Katie aren't very good at this game. They only made it to thirty
 
 ---------------------------------------------------------------------------------------
 
-//introduce while loops
+Another type of loop is called a _while loop_. A _while loop_ is a loop that runs as long as (or while) its condition is true. 
 
-//while loop example
+The anatomy of a while loop is much simpler than that of a for loop. Where a for loop has an initializer, a condition, and a post loop action, a while loop only has a condition. The basic structure of a while loop is as follows:
 
-Let's go [here](https://ideone.com/Z2YCZ2).
+```
+while(condition)
+{
+  //do a thing
+}
+```
 
-//word problem that uses while loops
+For example, we could count to ten with the following while loop:
 
-Lets rewrite the 3,5 game using a while loop!
+```
+int i = 0;
+while(i < 10)
+{
+  printf("%d", i);
+  i++;
+}
+```
+
+Another thing we could do is write a version of integer division where we see how many times i goes into j:
+
+```
+int i = 3;
+int j = 365;
+int count = 0;
+int product = 0;
+
+while(product<j)
+{
+  product += i;
+  count ++;
+}
+
+count --; //we overshoot j, so lets subtract 1
+
+printf("%d goes into %d wholly %d times", i, j,count);
+```
+Try [running that code](https://ideone.com/V4Or0J). Change the numbers.
+
+Another fun thing we can do is write the "99 bottles of coke on wall" song:
+[99 Bottles of Coke on the Wall](https://ideone.com/Z2YCZ2).
+
 
 ### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
 
