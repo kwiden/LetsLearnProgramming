@@ -106,8 +106,9 @@ Try [running that code](https://ideone.com/V4Or0J). Change the numbers.
 Another fun thing we can do is write the "99 bottles of coke on wall" song:
 [99 Bottles of Coke on the Wall](https://ideone.com/Z2YCZ2).
 
+I know what you're thinking, _"Wow, Katie, that **was** so much fun..."_ and I have to agree - I have excellent taste in fun. Speaking of fun, lets write a while loop!
 
-### -Oops! It looks like this tutorial is still being worked on! Check back later for updates!-
+Write a while loop that prints out all the factors of someNumber starting with the largest first. For example, if someNumer = 30, the code should output ``30 15 10 6 5 3 2 1``. I'll give you [this template](https://ideone.com/80V7fk) to start with. 
 
 ----------------------------------------------------------------------------------------
 
