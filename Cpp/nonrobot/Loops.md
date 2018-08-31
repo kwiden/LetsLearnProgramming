@@ -106,7 +106,99 @@ Try [running that code](https://ideone.com/V4Or0J). Change the numbers.
 Another fun thing we can do is write the "99 bottles of coke on wall" song:
 [99 Bottles of Coke on the Wall](https://ideone.com/Z2YCZ2).
 
-I know what you're thinking, _"Wow, Katie, that **was** so much fun..."_ and I have to agree - I have excellent taste in fun. Speaking of fun, lets write a while loop!
+I know what you're thinking, _"Wow, Katie, that was so much fun..."_ and I have to agree - I have excellent taste in fun. Speaking of fun, lets write a while loop!
+
+What if we wrote the clapping game as a while loop? What would change?
+
+Lets say you wrote the clapping game as follows: (note, there are many different ways to solve this problem - there are multiple "right answers")
+```
+for(i=1; i <= 50; i++)
+{
+    if(i%3==0)
+    {
+		printf("clap ");
+    }
+	if(i%5==0)
+	{
+		printf("clap ");
+	}
+	if(i%3 !=0 && i%5 != 0)
+	{
+		printf("%d", i);
+	}
+	
+	printf("\n");
+}
+```
+
+The first thing we could change is the word for to while, but the line ```while(i=0; i<=50; i++)``` won't compile. As far as the computer is concerned, that is nonsense gibberish. Because a while loop only needs a conditional, we'd write the first line as `while(i<=50)`. 
+
+This means we need to make sure `i` is initialized - so we'll have to do that before the loop. If we do that in the loop - `i` will always be re-initialized and the loop will run forever! Now our code will look like this:
+```
+i = 1;
+while(i <= 50)
+{
+    if(i%3==0)
+    {
+		printf("clap ");
+    }
+	if(i%5==0)
+	{
+		printf("clap ");
+	}
+	if(i%3 !=0 && i%5 != 0)
+	{
+		printf("%d", i);
+	}
+	
+	printf("\n");
+}
+```
+
+If we ran our code - what would happen? Would it work? 
+
+.
+
+.
+
+.
+
+Try it. Can you figure out what it's behaving the way it is? Can you fix it?
+
+.
+
+.
+
+.
+
+What happened? The code printed 1 1 1 1 1 1 1 1 ... right? That's because we have an infinite loop! We never change the value of `i` inside the loop so `i<=50` is always true. In our for loop  we have `i++` as our post iteration process, so lets add `i++` at the end of each iteration.
+
+```
+i = 1;
+while(i <= 50)
+{
+    if(i%3==0)
+    {
+		printf("clap ");
+    }
+	if(i%5==0)
+	{
+		printf("clap ");
+	}
+	if(i%3 !=0 && i%5 != 0)
+	{
+		printf("%d", i);
+	}
+	
+	printf("\n");
+  
+  i++;
+}
+```
+
+Run it now! Tada!
+
+Alright, now try it out on your own:
 
 Write a while loop that prints out all the factors of someNumber starting with the largest first. For example, if someNumer = 30, the code should output ``30 15 10 6 5 3 2 1``. I'll give you [this template](https://ideone.com/80V7fk) to start with. 
 
