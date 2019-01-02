@@ -33,8 +33,10 @@
 ### Objects      
 * basic idea of an object
 * Objects we'll use in robots
-* -motor controllers (set speed, get encoder, etc)
-* -joystick/controller (get button, get joystick, etc)
+   * motor controllers (set speed, get encoder, etc)
+   * joystick/controller (get button, get joystick, etc)
+* Attributes (variables stored inside of the object)
+* Methods (functions tied to the object, e.g. `motor->set()`)
 
 # Robot!    
 
