@@ -34,3 +34,7 @@ This is your one stop shop to learn about programming FRC robotics in C++.
     * [Pigeon IMU](http://www.ctr-electronics.com/gadgeteer-imu-module-pigeon.html)
 * [Get Started with the Control System](http://wpilib.screenstepslive.com/s/currentCS)
 * [The Compass Alliance](https://www.thecompassalliance.org/)
+
+### Curriculum
+Looking to modify the curriulum to best fit your language/team/robot? 
+* [Curriculum Outline](support/outline.md)
