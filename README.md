@@ -2,6 +2,8 @@
 
 This is your one stop shop to learn about programming FRC robotics in C++. 
 
+If you're looking Let's Learn Programming adapted for Java, you can check out [Filip3314's fork](https://github.com/Filip3314/LetsLearnProgramming). Thanks Filip! 
+
 ### C++
  - **The Basics**
      - [Let’s Say Hello!](Cpp/nonrobot/HelloWorld.md)
