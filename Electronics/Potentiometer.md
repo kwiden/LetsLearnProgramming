@@ -8,4 +8,4 @@ For those with no electrical circuit training, an easy way to think about a pot 
 
 The applications are unlimitd, but common uses include things like "knowing the angle of an arm," "setting the speed of a motor (ie as a input at the driver station)", or other situations where there is a defined minimum and maximum value that the system **cannot** exceed. If a pot is forced to rotate beyond its hard-stops, you will break the sensor. 
 
-### Oops! It looks like this article is still under construction, check back later for updates.
+### -Oops! It looks like this article is still under construction, check back later for updates.-
