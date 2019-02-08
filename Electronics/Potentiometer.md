@@ -2,7 +2,7 @@
 
 One of the simpliest feedback devices - aside from a button- is the potentiometer, also know as a "pot". Pots can be used in things like light dimming knobs, volume dials. or to detect how much something has spun. 
 
-Pots, unlike other rotational sensors, have a limited throw - older volume dials only turn so far before they hit a hard stop. As eletronics technology improves, complex potentiometers are being made. 
+Pots, unlike other rotational sensors, have a limited throw - older volume dials only turn so far before they hit a hard stop. As eletronics technology improves, complex potentiometers are being made with larger and even infinite throws.
 <p align="center">
   
 <img src="/Images/pots.png">
