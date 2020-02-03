@@ -9,17 +9,17 @@ Currently LLP is written with 1296's 2017 robot in mind. As LLP grows and evolve
 
 ### Who is Katie?
 
-I'm a computer engineer working who likes writing firmware. I've worked at places like [Iris Automation](https://www.irisonboard.com/) and [VEX Robotics](https://www.vexrobotics.com/). Currently I work at [Orro](https://www.getorro.com/)
+I'm a computer engineer working who likes writing firmware. I've worked at places like [Iris Automation](https://www.irisonboard.com/) and [VEX Robotics](https://www.vexrobotics.com/). Currently I work at [Orro](https://www.getorro.com/).
 
-I am also involed in FIRST Robotics. I was a student on FRC 1675 in Milwaukee, WI. After graduating high school, I went to Iowa State University and with two other students started FRC 3928. I mentored 3928 for three years before taking a break to focus on graduating. After graduation I moved to Texas and mentored FRC 1296 for two years. In 2018, I moved to California and met local team, FRC 253.
+I do a lot of robot stuff. I was a student on FRC 1675 in Milwaukee, WI. After graduating high school, I went to Iowa State University and with two other students started FRC 3928. I mentored 3928 for three years before taking a break to focus on graduating and instead volunteered as an FTA for FTC events. After graduation I moved to Texas and mentored FRC 1296 for two years. I also volunteered at local VEX events and have both worked and volunteered at VEX Worlds. In 2018, I moved to California and met local team, FRC 253.
 
-One time Spectrum asked me questions about FRC and my job (2016), which you can find [here](http://blog.spectrum3847.org/2016/10/katie-widen-this-is-how-i-work.html). I frequent Chief Delphi under the username [Katie_UPS](https://www.chiefdelphi.com/forums/member.php?u=25036).
+One time Spectrum asked me questions about FRC and my job (2016), which you can find [here](http://blog.spectrum3847.org/2016/10/katie-widen-this-is-how-i-work.html) - its pretty outdated at this point but that's life. I frequent Chief Delphi under the username [Katie_UPS](https://www.chiefdelphi.com/forums/member.php?u=25036).
 
 Besides the engineering stuff, I have a [very cute dog](https://www.instagram.com/gatsbypaws/) who accompanies me on backpacking and camping trips. I also enjoy creative pursuits such as painting and playing various musical instruments.
 
 ### Who else is helping?
 
-Jeffrey Tessitore: Jeffrey is an FRC 1296 alumni who is now a freshman at Texas Tech. Jeffrey led the software team on 1296 for two years and was the driving force behind their 2018 season multi-cube autonomous.
+Jeffrey Tessitore: Jeffrey is an FRC 1296 alumni who is now attending Texas Tech. Jeffrey helped with writing some of the C++ tutorials.
 
 Additionally, [LLP has been modified to teach Java](https://github.com/Filip3314/LetsLearnProgramming) by Filip3314. Thanks Filip!
 
