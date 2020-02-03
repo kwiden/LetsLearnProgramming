@@ -23,7 +23,7 @@ If you're looking Let's Learn Programming adapted for Java, you can check out [F
 
 ### Java
 
- -**Robots**
+ - **Robots**
      - [Let's Learn Tank Drive!](Java/robot/LLTank.md)
      - [Let's Climb!](Java/robot/LLClimb.md)
      - [Let's Get Some Gears!](Java/robot/LLGears.md)
