@@ -40,42 +40,46 @@
 
 # Robot!    
 
-### Driving  
-* read Joystick
-* drive motors
-
 ### Basic Subsystem  
 * read button
 * drive motor
 
+### Basic Driving  
+* read joystick(s)
+* drive motors
+
 ### Intermediate Subsystem
+* conditionals
 * read buttons
-* run motors
-* use limit switches
+* run motors / pneumatics
+* use digital sensors (limit switch, light sensor, etc)
+
+### Basic Auto
+* use timing to control distances
+* sequential instructions
+
+### Beyond "Go": SparkMax & TalonSRX Libraries
+* curent sensing/limiting
+* read/use sensors
+* motor modes
 
 ### Advanced Subsystem
-* Buttons map to positions
-* use CANTalon encoder
-* find appropriate positional offsets
+* positional/velocity control (arm v shooter)
+* use encoders
 * tune PID loops
-
-### Advanced Subsystem Cont.
-* combine/modify commands
-* keep track of current states
-* conditionals
 
 ### Combining Steps
 * Combine/modify commands
-* keep track of arm states
-* utilize timing
+* keep track of states
 * control multiple subsystems with one command
 
-### Basic Auto
+### Advanced Auto
 * use encoders to drive specific distances
-* timing
+* read gyro/use to control turn angle
 * combining instructions
 
-### Advanced Auto
-* read gyro/use to control turn angle
-* timing
-* combining instructions
+### Advanced Controls
+* "Cheesy Drive"
+   * Constant Radius Turn
+   * Quick Turn Button
+   * Velocity Control (Feed Forward, PID)
